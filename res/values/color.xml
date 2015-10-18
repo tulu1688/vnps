@@ -1,0 +1,22 @@
+<resources>
+
+    <color name="wrong_color">#FF4444</color>
+    <color name="correct_color">#0099CC</color>
+    <color name="hint_color">#669900</color>
+    <color name="common_app_background">#ecf0ef</color>
+    <color name="common_login_background">#d9eeee</color>
+    <color name="common_app_red_color">#e12040</color>
+    <color name="common_app_green_color">#39b54a</color>
+    <color name="common_app_text_color">#333333</color>
+    <color name="common_app_gray_color">#999999</color>
+    <color name="common_app_light_gray_color">#d2d2d2</color>
+    <color name="common_app_cyan_color">#0abc9c</color>
+
+    <!-- DIY screen -->
+    <color name="diy_text_color">#9cabb2</color>
+    
+    <!-- statistic activity -->
+    <color name="statistic_chart_background_color">#202930</color>
+    <color name="statistic_chart_point_color">#35d976</color>
+
+</resources>
